@@ -1,0 +1,299 @@
+C:\Users\TechCare\source\repos\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\TechCare\source\repos\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\TechCare\source\repos\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.MenuFood.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.Party.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+C:\Users\TechCare\source\repos\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+D:\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.MenuFood.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.ThanhToan.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\PBL3\PBL3\obj\Debug\PBL3.pdb
+D:\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\PBL3\PBL3\bin\Debug\EntityFramework.dll
+D:\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\PBL3\PBL3\bin\Debug\EntityFramework.xml
+D:\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.MenuFood.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.ThanhToan.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\TechCare\Desktop\PBL3-20210602T180751Z-001\PBL3\PBL3\obj\Debug\PBL3.View.Party.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.MenuFood.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.View.Party.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThanhToan.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\TRAM\Downloads\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.pdb
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\EntityFramework.dll
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\EntityFramework.xml
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.View.Party.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThanhToan.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.pdb
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.Login.resources
+D:\VS\PBL\PBL3-20210603T014613Z-001\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.Login.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.View.Party.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.ThanhToan.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\TRAM\Downloads\pbl\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.Login.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.View.Party.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.ThanhToan.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\TechCare\Desktop\PBL (1)\pbl\PBL3\PBL3\obj\Debug\PBL3.pdb
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.dll
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.xml
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.Login.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.View.Party.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThanhToan.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\VS\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.Login.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.View.Party.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThanhToan.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\View\ThucDon.resx
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\View\ThucDon.cs
+C:\Users\TRAM\Downloads\pbl1\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\View\ThucDon.Designer.cs
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\View\ThucDon.resx
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\View\ThucDon.cs
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\View\ThucDon.Designer.cs
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.dll
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.xml
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.BillDattiec.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.fDatTiec.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.fKhachHang.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.FormSanh.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.HoaDon.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.Login.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.Menu.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.View.Party.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.PersionalInfor.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThanhToan.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeHD.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeKH.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThongkeTK.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.ThucDon.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChu.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.TrangChuNV.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\VS\10h\pbl-20210604T061918Z-001\pbl\PBL3\PBL3\obj\Debug\PBL3.pdb

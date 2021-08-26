@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tabbhnnhgvModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ACCOUNT">
+    <Key>
+      <PropertyRef Name="IDTK" />
+    </Key>
+    <Property Name="IDTK" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USERNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PASS" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TypeAcc" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SDT" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CMND" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EMAIL" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="CHUCVU" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PhotoAC" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="BILLs" Relationship="Self.FK__BILL__IDTK__693CA210" FromRole="ACCOUNT" ToRole="BILL" />
+  </EntityType>
+  <EntityType Name="BILL">
+    <Key>
+      <PropertyRef Name="IDBILL" />
+    </Key>
+    <Property Name="IDBILL" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDTK" Type="Int32" Nullable="false" />
+    <Property Name="IDKH" Type="Int32" />
+    <Property Name="IDSanh" Type="Int32" />
+    <Property Name="IDPARTY" Type="Int32" />
+    <Property Name="BookingDate" Type="DateTime" Precision="0" />
+    <Property Name="Time" Type="Int32" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="DISCOUNT" Type="Int32" Nullable="false" />
+    <Property Name="DATCOC" Type="Double" Nullable="false" />
+    <Property Name="TOTAL" Type="Double" />
+    <Property Name="STATUS" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="INCUR" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="INCURCOST" Type="Double" Nullable="false" />
+    <Property Name="PayDay" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="ACCOUNT" Relationship="Self.FK__BILL__IDTK__693CA210" FromRole="BILL" ToRole="ACCOUNT" />
+    <NavigationProperty Name="BILL1" Relationship="Self.FK__BILL__IDBILL__6754599E" FromRole="BILL" ToRole="BILL1" />
+    <NavigationProperty Name="BILL2" Relationship="Self.FK__BILL__IDBILL__6754599E" FromRole="BILL1" ToRole="BILL" />
+    <NavigationProperty Name="CUSTOMER" Relationship="Self.FK__BILL__IDKH__68487DD7" FromRole="BILL" ToRole="CUSTOMER" />
+    <NavigationProperty Name="PARTY" Relationship="Self.FK__BILL__IDPARTY__66603565" FromRole="BILL" ToRole="PARTY" />
+    <NavigationProperty Name="SANH" Relationship="Self.FK__BILL__PayDay__656C112C" FromRole="BILL" ToRole="SANH" />
+    <NavigationProperty Name="MENUDETAILs" Relationship="Self.FK__MENUDETAI__IDBIL__6D0D32F4" FromRole="BILL" ToRole="MENUDETAIL" />
+  </EntityType>
+  <EntityType Name="CUSTOMER">
+    <Key>
+      <PropertyRef Name="IDKH" />
+    </Key>
+    <Property Name="IDKH" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SDT" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DIACHI" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CMND" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="BILLs" Relationship="Self.FK__BILL__IDKH__68487DD7" FromRole="CUSTOMER" ToRole="BILL" />
+  </EntityType>
+  <EntityType Name="FOOD">
+    <Key>
+      <PropertyRef Name="IDFood" />
+    </Key>
+    <Property Name="IDFood" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDFoodCategory" Type="Int32" Nullable="false" />
+    <Property Name="NameFood" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PriceFood" Type="Double" Nullable="false" />
+    <Property Name="PhotoFood" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Material" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="FOODCATEGORY" Relationship="Self.FK__FOOD__Material__403A8C7D" FromRole="FOOD" ToRole="FOODCATEGORY" />
+    <NavigationProperty Name="MENUDETAILs" Relationship="Self.FK__MENUDETAI__TongT__6C190EBB" FromRole="FOOD" ToRole="MENUDETAIL" />
+  </EntityType>
+  <EntityType Name="FOODCATEGORY">
+    <Key>
+      <PropertyRef Name="IDFoodCategory" />
+    </Key>
+    <Property Name="IDFoodCategory" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameFCategory" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="FOODs" Relationship="Self.FK__FOOD__Material__403A8C7D" FromRole="FOODCATEGORY" ToRole="FOOD" />
+  </EntityType>
+  <EntityType Name="MENUDETAIL">
+    <Key>
+      <PropertyRef Name="IDBILL" />
+      <PropertyRef Name="IDFood" />
+    </Key>
+    <Property Name="IDBILL" Type="Int32" Nullable="false" />
+    <Property Name="IDFood" Type="Int32" Nullable="false" />
+    <Property Name="SLFood" Type="Int32" Nullable="false" />
+    <Property Name="ThanhTien" Type="Double" />
+    <Property Name="TongTien" Type="Double" />
+    <NavigationProperty Name="BILL" Relationship="Self.FK__MENUDETAI__IDBIL__6D0D32F4" FromRole="MENUDETAIL" ToRole="BILL" />
+    <NavigationProperty Name="FOOD" Relationship="Self.FK__MENUDETAI__TongT__6C190EBB" FromRole="MENUDETAIL" ToRole="FOOD" />
+  </EntityType>
+  <EntityType Name="PARTY">
+    <Key>
+      <PropertyRef Name="IDPARTY" />
+    </Key>
+    <Property Name="IDPARTY" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NamePT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PricePT" Type="Double" Nullable="false" />
+    <Property Name="PhotoParty" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="BILLs" Relationship="Self.FK__BILL__IDPARTY__66603565" FromRole="PARTY" ToRole="BILL" />
+  </EntityType>
+  <EntityType Name="SANH">
+    <Key>
+      <PropertyRef Name="IDSanh" />
+    </Key>
+    <Property Name="IDSanh" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameSanh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SIZE" Type="Int32" Nullable="false" />
+    <Property Name="PriceSanh" Type="Double" Nullable="false" />
+    <Property Name="PhotoSanh" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="BILLs" Relationship="Self.FK__BILL__PayDay__656C112C" FromRole="SANH" ToRole="BILL" />
+  </EntityType>
+  <Association Name="FK__BILL__IDTK__693CA210">
+    <End Role="ACCOUNT" Type="Self.ACCOUNT" Multiplicity="1" />
+    <End Role="BILL" Type="Self.BILL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ACCOUNT">
+        <PropertyRef Name="IDTK" />
+      </Principal>
+      <Dependent Role="BILL">
+        <PropertyRef Name="IDTK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BILL__IDBILL__6754599E">
+    <End Role="BILL" Type="Self.BILL" Multiplicity="1" />
+    <End Role="BILL1" Type="Self.BILL" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="BILL">
+        <PropertyRef Name="IDBILL" />
+      </Principal>
+      <Dependent Role="BILL1">
+        <PropertyRef Name="IDBILL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BILL__IDKH__68487DD7">
+    <End Role="CUSTOMER" Type="Self.CUSTOMER" Multiplicity="0..1" />
+    <End Role="BILL" Type="Self.BILL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CUSTOMER">
+        <PropertyRef Name="IDKH" />
+      </Principal>
+      <Dependent Role="BILL">
+        <PropertyRef Name="IDKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BILL__IDPARTY__66603565">
+    <End Role="PARTY" Type="Self.PARTY" Multiplicity="0..1" />
+    <End Role="BILL" Type="Self.BILL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PARTY">
+        <PropertyRef Name="IDPARTY" />
+      </Principal>
+      <Dependent Role="BILL">
+        <PropertyRef Name="IDPARTY" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BILL__PayDay__656C112C">
+    <End Role="SANH" Type="Self.SANH" Multiplicity="0..1" />
+    <End Role="BILL" Type="Self.BILL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SANH">
+        <PropertyRef Name="IDSanh" />
+      </Principal>
+      <Dependent Role="BILL">
+        <PropertyRef Name="IDSanh" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__MENUDETAI__IDBIL__6D0D32F4">
+    <End Role="BILL" Type="Self.BILL" Multiplicity="1" />
+    <End Role="MENUDETAIL" Type="Self.MENUDETAIL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BILL">
+        <PropertyRef Name="IDBILL" />
+      </Principal>
+      <Dependent Role="MENUDETAIL">
+        <PropertyRef Name="IDBILL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__FOOD__Material__403A8C7D">
+    <End Role="FOODCATEGORY" Type="Self.FOODCATEGORY" Multiplicity="1" />
+    <End Role="FOOD" Type="Self.FOOD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FOODCATEGORY">
+        <PropertyRef Name="IDFoodCategory" />
+      </Principal>
+      <Dependent Role="FOOD">
+        <PropertyRef Name="IDFoodCategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__MENUDETAI__TongT__6C190EBB">
+    <End Role="FOOD" Type="Self.FOOD" Multiplicity="1" />
+    <End Role="MENUDETAIL" Type="Self.MENUDETAIL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FOOD">
+        <PropertyRef Name="IDFood" />
+      </Principal>
+      <Dependent Role="MENUDETAIL">
+        <PropertyRef Name="IDFood" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CSDL" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ACCOUNTs" EntityType="Self.ACCOUNT" />
+    <EntitySet Name="BILLs" EntityType="Self.BILL" />
+    <EntitySet Name="CUSTOMERs" EntityType="Self.CUSTOMER" />
+    <EntitySet Name="FOODs" EntityType="Self.FOOD" />
+    <EntitySet Name="FOODCATEGORies" EntityType="Self.FOODCATEGORY" />
+    <EntitySet Name="MENUDETAILs" EntityType="Self.MENUDETAIL" />
+    <EntitySet Name="PARTies" EntityType="Self.PARTY" />
+    <EntitySet Name="SANHs" EntityType="Self.SANH" />
+    <AssociationSet Name="FK__BILL__IDTK__693CA210" Association="Self.FK__BILL__IDTK__693CA210">
+      <End Role="ACCOUNT" EntitySet="ACCOUNTs" />
+      <End Role="BILL" EntitySet="BILLs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BILL__IDBILL__6754599E" Association="Self.FK__BILL__IDBILL__6754599E">
+      <End Role="BILL" EntitySet="BILLs" />
+      <End Role="BILL1" EntitySet="BILLs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BILL__IDKH__68487DD7" Association="Self.FK__BILL__IDKH__68487DD7">
+      <End Role="CUSTOMER" EntitySet="CUSTOMERs" />
+      <End Role="BILL" EntitySet="BILLs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BILL__IDPARTY__66603565" Association="Self.FK__BILL__IDPARTY__66603565">
+      <End Role="PARTY" EntitySet="PARTies" />
+      <End Role="BILL" EntitySet="BILLs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BILL__PayDay__656C112C" Association="Self.FK__BILL__PayDay__656C112C">
+      <End Role="SANH" EntitySet="SANHs" />
+      <End Role="BILL" EntitySet="BILLs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__MENUDETAI__IDBIL__6D0D32F4" Association="Self.FK__MENUDETAI__IDBIL__6D0D32F4">
+      <End Role="BILL" EntitySet="BILLs" />
+      <End Role="MENUDETAIL" EntitySet="MENUDETAILs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__FOOD__Material__403A8C7D" Association="Self.FK__FOOD__Material__403A8C7D">
+      <End Role="FOODCATEGORY" EntitySet="FOODCATEGORies" />
+      <End Role="FOOD" EntitySet="FOODs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__MENUDETAI__TongT__6C190EBB" Association="Self.FK__MENUDETAI__TongT__6C190EBB">
+      <End Role="FOOD" EntitySet="FOODs" />
+      <End Role="MENUDETAIL" EntitySet="MENUDETAILs" />
+    </AssociationSet>
+    <FunctionImport Name="AddMenuDetail">
+      <Parameter Name="IDFood" Mode="In" Type="Int32" />
+      <Parameter Name="IDBILL" Mode="In" Type="Int32" />
+      <Parameter Name="SLFood" Mode="In" Type="Int32" />
+      <Parameter Name="PriceFood" Mode="In" Type="Double" />
+    </FunctionImport>
+    <FunctionImport Name="AddParty">
+      <Parameter Name="NamePT" Mode="In" Type="String" />
+      <Parameter Name="PricePT" Mode="In" Type="Double" />
+      <Parameter Name="PhotoParty" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="AddSanh">
+      <Parameter Name="NameSanh" Mode="In" Type="String" />
+      <Parameter Name="SIZE" Mode="In" Type="Int32" />
+      <Parameter Name="PriceSanh" Mode="In" Type="Double" />
+      <Parameter Name="PhotoSanh" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="DelBill">
+      <Parameter Name="IDBILL" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="DeleSanh">
+      <Parameter Name="IDSanh" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="DelMenuDetail">
+      <Parameter Name="IDFood" Mode="In" Type="Int32" />
+      <Parameter Name="IDBILL" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="DelPT">
+      <Parameter Name="IDPARTY" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="EditBill">
+      <Parameter Name="IDBILL" Mode="In" Type="Int32" />
+      <Parameter Name="IDSanh" Mode="In" Type="Int32" />
+      <Parameter Name="Time" Mode="In" Type="Int32" />
+      <Parameter Name="Quantity" Mode="In" Type="Int32" />
+      <Parameter Name="TOTAL" Mode="In" Type="Double" />
+    </FunctionImport>
+    <FunctionImport Name="EditMenuDetail">
+      <Parameter Name="IDFood" Mode="In" Type="Int32" />
+      <Parameter Name="IDBILL" Mode="In" Type="Int32" />
+      <Parameter Name="SLFood" Mode="In" Type="Int32" />
+      <Parameter Name="PriceFood" Mode="In" Type="Double" />
+    </FunctionImport>
+    <FunctionImport Name="EditParty">
+      <Parameter Name="IDPARTY" Mode="In" Type="Int32" />
+      <Parameter Name="NamePT" Mode="In" Type="String" />
+      <Parameter Name="PricePT" Mode="In" Type="Double" />
+      <Parameter Name="PhotoParty" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="EditSanh">
+      <Parameter Name="IDSanh" Mode="In" Type="Int32" />
+      <Parameter Name="NameSanh" Mode="In" Type="String" />
+      <Parameter Name="SIZE" Mode="In" Type="Int32" />
+      <Parameter Name="PriceSanh" Mode="In" Type="Double" />
+      <Parameter Name="PhotoSanh" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="ShowBll" ReturnType="Collection(tabbhnnhgvModel.ShowBll_Result)">
+      <Parameter Name="BookingDay" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="ShowMenu" ReturnType="Collection(tabbhnnhgvModel.ShowMenu_Result)">
+      <Parameter Name="IDBill" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="ShowMenu1" ReturnType="Collection(tabbhnnhgvModel.ShowMenu1_Result)">
+      <Parameter Name="IDBill" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="ShowBll_Result">
+    <Property Type="Int32" Name="IDBILL" Nullable="false" />
+    <Property Type="String" Name="NameKH" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="SDT" Nullable="false" MaxLength="11" />
+    <Property Type="String" Name="CMND" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="NamePT" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="NameSanh" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="Time" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="ShowMenu_Result">
+    <Property Type="Int32" Name="IDBILL" Nullable="false" />
+    <Property Type="String" Name="NameFood" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="SLFood" Nullable="false" />
+    <Property Type="Double" Name="PriceFood" Nullable="false" />
+    <Property Type="Double" Name="ThanhTien" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="ShowMenu1_Result">
+    <Property Type="Int32" Name="IDFood" Nullable="false" />
+    <Property Type="String" Name="NameFood" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="SLFood" Nullable="false" />
+    <Property Type="Double" Name="PriceFood" Nullable="false" />
+    <Property Type="Double" Name="ThanhTien" Nullable="true" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="tabbhnnhgvModelStoreContainer" CdmEntityContainer="CSDL">
+    <EntitySetMapping Name="ACCOUNTs">
+      <EntityTypeMapping TypeName="tabbhnnhgvModel.ACCOUNT">
+        <MappingFragment StoreEntitySet="ACCOUNT">
+          <ScalarProperty Name="IDTK" ColumnName="IDTK" />
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASS" ColumnName="PASS" />
+          <ScalarProperty Name="TypeAcc" ColumnName="TypeAcc" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="CHUCVU" ColumnName="CHUCVU" />
+          <ScalarProperty Name="PhotoAC" ColumnName="PhotoAC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BILLs">
+      <EntityTypeMapping TypeName="tabbhnnhgvModel.BILL">
+        <MappingFragment StoreEntitySet="BILL">
+          <ScalarProperty Name="IDBILL" ColumnName="IDBILL" />
+          <ScalarProperty Name="IDTK" ColumnName="IDTK" />
+          <ScalarProperty Name="IDKH" ColumnName="IDKH" />
+          <ScalarProperty Name="IDSanh" ColumnName="IDSanh" />
+          <ScalarProperty Name="IDPARTY" ColumnName="IDPARTY" />
+          <ScalarProperty Name="BookingDate" ColumnName="BookingDate" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="DISCOUNT" ColumnName="DISCOUNT" />
+          <ScalarProperty Name="DATCOC" ColumnName="DATCOC" />
+          <ScalarProperty Name="TOTAL" ColumnName="TOTAL" />
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+          <ScalarProperty Name="INCUR" ColumnName="INCUR" />
+          <ScalarProperty Name="INCURCOST" ColumnName="INCURCOST" />
+          <ScalarProperty Name="PayDay" ColumnName="PayDay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CUSTOMERs">
+      <EntityTypeMapping TypeName="tabbhnnhgvModel.CUSTOMER">
+        <MappingFragment StoreEntitySet="CUSTOMER">
+          <ScalarProperty Name="IDKH" ColumnName="IDKH" />
+          <ScalarProperty Name="NameKH" ColumnName="NameKH" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FOODs">
+      <EntityTypeMapping TypeName="tabbhnnhgvModel.FOOD">
+        <MappingFragment StoreEntitySet="FOOD">
+          <ScalarProperty Name="IDFood" ColumnName="IDFood" />
+          <ScalarProperty Name="IDFoodCategory" ColumnName="IDFoodCategory" />
+          <ScalarProperty Name="NameFood" ColumnName="NameFood" />
+          <ScalarProperty Name="PriceFood" ColumnName="PriceFood" />
+          <ScalarProperty Name="PhotoFood" ColumnName="PhotoFood" />
+          <ScalarProperty Name="Material" ColumnName="Material" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FOODCATEGORies">
+      <EntityTypeMapping TypeName="tabbhnnhgvModel.FOODCATEGORY">
+        <MappingFragment StoreEntitySet="FOODCATEGORY">
+          <ScalarProperty Name="IDFoodCategory" ColumnName="IDFoodCategory" />
+          <ScalarProperty Name="NameFCategory" ColumnName="NameFCategory" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MENUDETAILs">
+      <EntityTypeMapping TypeName="tabbhnnhgvModel.MENUDETAIL">
+        <MappingFragment StoreEntitySet="MENUDETAIL">
+          <ScalarProperty Name="IDBILL" ColumnName="IDBILL" />
+          <ScalarProperty Name="IDFood" ColumnName="IDFood" />
+          <ScalarProperty Name="SLFood" ColumnName="SLFood" />
+          <ScalarProperty Name="ThanhTien" ColumnName="ThanhTien" />
+          <ScalarProperty Name="TongTien" ColumnName="TongTien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PARTies">
+      <EntityTypeMapping TypeName="tabbhnnhgvModel.PARTY">
+        <MappingFragment StoreEntitySet="PARTY">
+          <ScalarProperty Name="IDPARTY" ColumnName="IDPARTY" />
+          <ScalarProperty Name="NamePT" ColumnName="NamePT" />
+          <ScalarProperty Name="PricePT" ColumnName="PricePT" />
+          <ScalarProperty Name="PhotoParty" ColumnName="PhotoParty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SANHs">
+      <EntityTypeMapping TypeName="tabbhnnhgvModel.SANH">
+        <MappingFragment StoreEntitySet="SANH">
+          <ScalarProperty Name="IDSanh" ColumnName="IDSanh" />
+          <ScalarProperty Name="NameSanh" ColumnName="NameSanh" />
+          <ScalarProperty Name="SIZE" ColumnName="SIZE" />
+          <ScalarProperty Name="PriceSanh" ColumnName="PriceSanh" />
+          <ScalarProperty Name="PhotoSanh" ColumnName="PhotoSanh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AddMenuDetail" FunctionName="tabbhnnhgvModel.Store.AddMenuDetail" />
+    <FunctionImportMapping FunctionImportName="AddParty" FunctionName="tabbhnnhgvModel.Store.AddParty" />
+    <FunctionImportMapping FunctionImportName="AddSanh" FunctionName="tabbhnnhgvModel.Store.AddSanh" />
+    <FunctionImportMapping FunctionImportName="DelBill" FunctionName="tabbhnnhgvModel.Store.DelBill" />
+    <FunctionImportMapping FunctionImportName="DeleSanh" FunctionName="tabbhnnhgvModel.Store.DeleSanh" />
+    <FunctionImportMapping FunctionImportName="DelMenuDetail" FunctionName="tabbhnnhgvModel.Store.DelMenuDetail" />
+    <FunctionImportMapping FunctionImportName="DelPT" FunctionName="tabbhnnhgvModel.Store.DelPT" />
+    <FunctionImportMapping FunctionImportName="EditBill" FunctionName="tabbhnnhgvModel.Store.EditBill" />
+    <FunctionImportMapping FunctionImportName="EditMenuDetail" FunctionName="tabbhnnhgvModel.Store.EditMenuDetail" />
+    <FunctionImportMapping FunctionImportName="EditParty" FunctionName="tabbhnnhgvModel.Store.EditParty" />
+    <FunctionImportMapping FunctionImportName="EditSanh" FunctionName="tabbhnnhgvModel.Store.EditSanh" />
+    <FunctionImportMapping FunctionImportName="ShowBll" FunctionName="tabbhnnhgvModel.Store.ShowBll">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="tabbhnnhgvModel.ShowBll_Result">
+          <ScalarProperty Name="IDBILL" ColumnName="IDBILL" />
+          <ScalarProperty Name="NameKH" ColumnName="NameKH" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="NamePT" ColumnName="NamePT" />
+          <ScalarProperty Name="NameSanh" ColumnName="NameSanh" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ShowMenu" FunctionName="tabbhnnhgvModel.Store.ShowMenu">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="tabbhnnhgvModel.ShowMenu_Result">
+          <ScalarProperty Name="IDBILL" ColumnName="IDBILL" />
+          <ScalarProperty Name="NameFood" ColumnName="NameFood" />
+          <ScalarProperty Name="SLFood" ColumnName="SLFood" />
+          <ScalarProperty Name="PriceFood" ColumnName="PriceFood" />
+          <ScalarProperty Name="ThanhTien" ColumnName="ThanhTien" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ShowMenu1" FunctionName="tabbhnnhgvModel.Store.ShowMenu1">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="tabbhnnhgvModel.ShowMenu1_Result">
+          <ScalarProperty Name="IDFood" ColumnName="IDFood" />
+          <ScalarProperty Name="NameFood" ColumnName="NameFood" />
+          <ScalarProperty Name="SLFood" ColumnName="SLFood" />
+          <ScalarProperty Name="PriceFood" ColumnName="PriceFood" />
+          <ScalarProperty Name="ThanhTien" ColumnName="ThanhTien" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
